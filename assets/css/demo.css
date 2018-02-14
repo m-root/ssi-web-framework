@@ -567,5 +567,14 @@
     justify-content: flex-end;
 }
 
+.icons{
+    color: #fff;
+}
 
 
+/**,*/
+/**::before,*/
+/**::after {*/
+    /*box-sizing: border-box;*/
+    /*color: #fff;*/
+/*}*/
